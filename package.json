@@ -1,0 +1,11 @@
+{
+  "name": "backend-comparison",
+  "private": true,
+  "scripts": {
+    "start": "cleaver slides.md",
+    "watch": "cleaver watch slides.md"
+  },
+  "dependencies": {
+    "cleaver": "^0.8.5"
+  }
+}
