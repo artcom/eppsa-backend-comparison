@@ -22,11 +22,11 @@ controls: false
 
 ### Contenders
 
-* MQTT
-* deepstream.io
-* Parse
-* Horizon
-* GraphGL
+* [MQTT](http://mqtt.org)
+* [deepstream.io](http://deepstream.io)
+* [Parse](http://parseplatform.org/)
+* [Horizon](http://horizon.io)
+* [GraphGL](http://graphql.org)
 
 ---
 
